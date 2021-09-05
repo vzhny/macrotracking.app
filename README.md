@@ -1,6 +1,6 @@
 # macrotracking.app
 
-A streamlined macronutrients tracking web application
+A streamlined macronutrients tracking web application!
 
 ## Credits
 
